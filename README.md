@@ -1,2 +1,2 @@
 # bashing-problems
-usefull scripts thet solves problems
+usefull scripts that solves problems
